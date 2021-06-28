@@ -42,3 +42,9 @@
 [submodule "lib/pico-sdk"]
 	path = lib/pico-sdk
 	url = https://github.com/raspberrypi/pico-sdk.git
+[submodule "lib/lv_binding_micropython"]
+	path = lib/lv_binding_micropython
+	url = git@github.com:lvgl/lv_binding_micropython.git
+[submodule "lib/peripherals/ms5803-micropython"]
+	path = lib/peripherals/ms5803-micropython
+	url = git@github.com:minyiky/ms5803-micropython.git
